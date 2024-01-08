@@ -1,0 +1,15 @@
+/Users/ken/Projects/secondApp/secondApp/bin/Debug/net7.0/secondApp
+/Users/ken/Projects/secondApp/secondApp/bin/Debug/net7.0/secondApp.deps.json
+/Users/ken/Projects/secondApp/secondApp/bin/Debug/net7.0/secondApp.runtimeconfig.json
+/Users/ken/Projects/secondApp/secondApp/bin/Debug/net7.0/secondApp.dll
+/Users/ken/Projects/secondApp/secondApp/bin/Debug/net7.0/secondApp.pdb
+/Users/ken/Projects/secondApp/secondApp/obj/Debug/net7.0/secondApp.csproj.AssemblyReference.cache
+/Users/ken/Projects/secondApp/secondApp/obj/Debug/net7.0/secondApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ken/Projects/secondApp/secondApp/obj/Debug/net7.0/secondApp.AssemblyInfoInputs.cache
+/Users/ken/Projects/secondApp/secondApp/obj/Debug/net7.0/secondApp.AssemblyInfo.cs
+/Users/ken/Projects/secondApp/secondApp/obj/Debug/net7.0/secondApp.csproj.CoreCompileInputs.cache
+/Users/ken/Projects/secondApp/secondApp/obj/Debug/net7.0/secondApp.dll
+/Users/ken/Projects/secondApp/secondApp/obj/Debug/net7.0/refint/secondApp.dll
+/Users/ken/Projects/secondApp/secondApp/obj/Debug/net7.0/secondApp.pdb
+/Users/ken/Projects/secondApp/secondApp/obj/Debug/net7.0/secondApp.genruntimeconfig.cache
+/Users/ken/Projects/secondApp/secondApp/obj/Debug/net7.0/ref/secondApp.dll
